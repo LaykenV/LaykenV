@@ -1,6 +1,12 @@
-### Hi there 👋 
-### I am a Software Engineer that loves to build with Typescript, Next.js, and Convex
+### Hi, I'm Layken
 
-### Check out my [Portfolio](https://laykenvarholdt.com) 🔭
+AI Engineer specializing in document intelligence, multi-agent 
+orchestration, and production AI infrastructure.
 
+🥇 1st Place, Convex Modern Stack Hackathon ($10K) — Oct 2025
+📍 Lafayette, LA · Open to Senior/Staff AI Engineering roles (remote)
 
+- Portfolio: laykenvarholdt.com
+- Writing: laykenvarholdt.com/blog
+- Resume: [[link]](https://www.laykenvarholdt.com/Layken-Varholdt-AI-Engineer-Resume.pdf)
+- X: @LLVarholdt
